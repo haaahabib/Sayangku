@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
             '"Kalau mau kamu jadi milikku"',
             "",
             "Sekarang kita udah bersama",
-            "Walaupun banyak masalah juga di hubungan kita",
+            "Walaupun banyak masalah di hubungan kita",
             "Kita harus bisa saling memaafkan terus ya",
             "Terima kasih ya sayang karena udah sabar",
             "Aku beruntung banget punya kamu",
